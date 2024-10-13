@@ -59,7 +59,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I am a persevering, motivated, and energized software Engineer who has 2+ years of industry level working experience 
+       A persevering, motivated, and energized software Engineer who has 2+ years of industry level working experience 
        with front end and back end development, Rest-API development and
       works with others to achieve a certain goal well timed and outstanding, accustomed to doing the
       task with responsibility in challenging, fast-paced conditions, 
